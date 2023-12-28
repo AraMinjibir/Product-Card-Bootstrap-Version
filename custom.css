@@ -1,0 +1,30 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+img {
+    width: 90%;
+    height: 90vh;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.text-secondary {
+    color: hsl(228, 12%, 48%) !important;
+}
+.text-primary {
+    color: hsl(212, 21%, 14%) !important;
+    font-weight: 600;
+}
+.text-success {
+    color: hsl(158, 36%, 37%) !important;
+    font-weight: 600;
+}
+.bg-warning {
+    background-color: hsl(30, 38%, 92%) !important;
+}
+.btn-success {
+    background-color:  hsl(158, 36%, 37%) !important;
+}
+
+    
